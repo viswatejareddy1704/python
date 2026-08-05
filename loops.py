@@ -34,14 +34,19 @@
 #   while j<=5:
 #     print(f"i value: {i} j value: {j}")            nested while loop
 #     j+=1
- # i+=1  
+# i+=1  
+# i=1
+# print("============Tables=================")
+# j=1
+# while i<=5:
+#   print(f"\n-------------table{i}--------------")
+#   j=1
+#   while j<=10:
+#     print(f"{i}*{j}={i*j}")
+#     j+=1
+#   print(end="")
+#   i+=1  
 
-
-i=1
-while i<5:
-  j=1
-  while j<=5:
-    print(f"i value: {i} j value: {j}",end="")
-    j*=1
-  i*=1   
- 
+age=22
+res="eligible" if age>=18 else "not eligible"
+print(res)
