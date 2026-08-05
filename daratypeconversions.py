@@ -15,6 +15,6 @@
 # age=90
 # print(float(age))
 
-salary=79000
-hike=890.78
-print(salary+hike)
+# salary=79000
+# hike=890.78
+# print(salary+hike)

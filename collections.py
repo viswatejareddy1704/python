@@ -13,5 +13,5 @@
 #          "loc":"hyd"}
 # print(type(my_dict))
 
-empty=()
-print()
+# empty=()
+# print()

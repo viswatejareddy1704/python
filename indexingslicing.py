@@ -19,7 +19,7 @@
 #           "loc":"hyd"}
 # print((my_dict)["sub"])
 
-s="python"
-print(s[0:2:])
+# s="python"
+# print(s[0:2:])
 
 
