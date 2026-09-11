@@ -47,6 +47,7 @@
 #   print(end="")
 #   i+=1  
 
-age=22
-res="eligible" if age>=18 else "not eligible"
-print(res)
+# age=22
+# res="eligible" if age>=18 else "not eligible"
+# print(res)
+

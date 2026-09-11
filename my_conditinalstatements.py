@@ -30,27 +30,27 @@
 # else:
 #     print("Fail")
 
-studentname=input("enter the student name:")
-attendance=int(input("enter the student attandance:"))
-marks=int(input("enter the studen marks:"))
-if studentname=="rajesh":
-    if attendance>=80:
-        if marks>80 and marks<100:
-            print("Grade A")
-        elif marks>65 and marks<=80:
-            print("Grade B")
-        elif marks>45 and marks<=65:
-            print("Grade C") 
-        elif marks>35 and marks<=45:
-             print("Grade D")
-        else:
-            print("Fail")  
-        print("student has good attendance")   
-    else:
-        print("student has low attendance")
-else:
-    print("student is not register")                        
-           
+# studentname=input("enter the student name:")
+# attendance=int(input("enter the student attandance:"))
+# marks=int(input("enter the studen marks:"))
+# if studentname=="rajesh":
+#     if attendance>=80:
+#         if marks>80 and marks<100:
+#             print("Grade A")
+#         elif marks>65 and marks<=80:
+#             print("Grade B")
+#         elif marks>45 and marks<=65:
+#             print("Grade C") 
+#         elif marks>35 and marks<=45:
+#              print("Grade D")
+#         else:
+#             print("Fail")  
+#         print("student has good attendance")   
+#     else:
+#         print("student has low attendance")
+# else:
+#     print("student is not register")                        
+        
             
             
             

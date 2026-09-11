@@ -59,16 +59,16 @@
 # print(res)
 # print(f"vowels count: {len(res)}")        
 
-s="pythondevelopers"
-vowel="aeiou"
-vowels=[]
-consonents=[]
-for cha in s:
-    if cha in vowel:
-        vowels.append(cha)
-    else:
-        consonents.append(cha)
-print(vowels)
-print(f"vowels count: {len(vowels)}")
-print(consonents)
-print(f"consonent count: {len(consonents)} ")        
+# s="pythondevelopers"
+# vowel="aeiou"
+# vowels=[]
+# consonents=[]
+# for cha in s:
+#     if cha in vowel:
+#         vowels.append(cha)
+#     else:                                         (consonets and vowels printing)
+#         consonents.append(cha)
+# print(vowels)
+# print(f"vowels count: {len(vowels)}")
+# print(consonents)
+# print(f"consonent count: {len(consonents)} ")        
